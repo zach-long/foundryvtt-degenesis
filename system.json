@@ -12,22 +12,6 @@
     "styles": [
     ],
     "packs": [
-        {
-            "name": "monsters",
-            "label": "Monsters",
-            "system": "mysystem",
-            "module": "mysystem",
-            "path": "packs/monsters.db",
-            "entity": "Actor"
-        },
-        {
-            "name": "items",
-            "label": "Items",
-            "system": "mysystem",
-            "module": "mysystem",
-            "path": "packs/items.db",
-            "entity": "Item"
-        }
     ],
     "languages": [
         {
@@ -39,6 +23,5 @@
     "socket": false,
     "gridDistance": 5,
     "gridUnits": "ft",
-    "url": "https://github.com/zach-long/foundryvtt-degenesis",
-    "download": "https://github.com/zach-long/foundryvtt-degenesis"
+    "url": "https://github.com/zach-long/foundryvtt-degenesis/system.json"
 }
