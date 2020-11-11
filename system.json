@@ -5,7 +5,6 @@
     "version": "0.0.1",
     "templateVersion": 1,
     "author": "Zachary Long; zach.writes.code@gmail.com",
-    "minimumCoreVersion": "0.7.6",
     "scripts": [
         "scripts/main.js"
     ],
@@ -15,6 +14,9 @@
     "socket": false,
     "gridDistance": 5,
     "gridUnits": "ft",
+    "primaryTokenAttribute": null,
+    "secondaryTokenAttribute": null,
     "url": "https://github.com/zach-long/foundryvtt-degenesis",
-    "manifest": "https://github.com/zach-long/foundryvtt-degenesis/system.json"
+    "manifest": "https://raw.githubusercontent.com/zach-long/foundryvtt-degenesis/main/system.json",
+    "download": null
 }
