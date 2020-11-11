@@ -1,0 +1,8 @@
+{
+    "Actor": {
+        "types": ["protagonist", "npc"]
+    },
+    "Item": {
+        "types": ["weapon", "armor", "utility"]
+    }
+}

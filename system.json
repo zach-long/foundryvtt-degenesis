@@ -1,0 +1,44 @@
+{
+    "name": "foundryvtt-degenesis",
+    "title": "Degenesis",
+    "description": "A game system for Degenesis.",
+    "version": "0.0.1",
+    "templateVersion": 1,
+    "author": "Zachary Long; zach.writes.code@gmail.com",
+    "scripts": [
+    ],
+    "esmodules": [
+    ],
+    "styles": [
+    ],
+    "packs": [
+        {
+            "name": "monsters",
+            "label": "Monsters",
+            "system": "mysystem",
+            "module": "mysystem",
+            "path": "packs/monsters.db",
+            "entity": "Actor"
+        },
+        {
+            "name": "items",
+            "label": "Items",
+            "system": "mysystem",
+            "module": "mysystem",
+            "path": "packs/items.db",
+            "entity": "Item"
+        }
+    ],
+    "languages": [
+        {
+            "lang": "en",
+            "name": "English",
+            "path": "lang/en.json"
+        }
+    ],
+    "socket": false,
+    "gridDistance": 5,
+    "gridUnits": "ft",
+    "url": "https://github.com/zach-long/foundryvtt-degenesis",
+    "download": "https://github.com/zach-long/foundryvtt-degenesis"
+}
