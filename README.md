@@ -1,2 +1,2 @@
 # foundryvtt-degenesis
-A Degenesis Game System for FoundryVTT.
+An unofficial Degenesis Game System for FoundryVTT.
